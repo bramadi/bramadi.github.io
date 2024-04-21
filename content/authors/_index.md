@@ -7,3 +7,9 @@ cascade:
     render: never
     list: always
 ---
+# Display name:
+title: Bramadi Arya
+
+#Full name
+first_name: Bramadi
+last_name: Arya
