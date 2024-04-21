@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/bramadiarya
   - icon: brands/linkedin
-    url: https://www.instagram.com/bramadiarya
+    url: https://www.linkedin.com/in/bramadiarya/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
@@ -56,6 +56,6 @@ website: ""
 
 Bramadi Arya was born in Padang, West Sumatra, Indonesia. He received his Bachelor of Science in Biology from Ahmad Dahlan University and his Master of Science in Biotechnology from Universitas Gadjah Mada, Yogyakarta.
 
-Bramadi is currently pursuing a PhD in Biochemistry and Molecular Biology at Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand. He worked under the supervision of Assoc. Prof. Dr. Varodom Charoensawan at the Systems Biology of Gene Expression Regulation Laboratory.
+Bram is currently pursuing a PhD in Biochemistry and Molecular Biology at Faculty of Medicine Siriraj Hospital, Mahidol University, Thailand. He worked under the supervision of Assoc. Prof. Dr. Varodom Charoensawan at the Systems Biology of Gene Expression Regulation Laboratory.
 
 His research interests include applying bioinformatics and systems biology approaches to gain a better understanding of gene expression regulation. He is particularly interested in investigating how these approaches can be applied to the study of disease mechanisms and the development of precision medicine strategies.
