@@ -1,94 +1,35 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: ✅ My First Bioinformatics Workshop
+summary: My first workshop
+date: 2020-10-16
 authors:
-  - admin
+  - bramadi
 tags:
-  - Hugo Blox
-  - Markdown
+  - Bioinformatics
+  - Workshop
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
-## Ideation
+# My Journey into Biomedical Research and Bioinformatics
 
-Hugo Blox supports a Markdown extension for mindmaps.
+## The Workshop Experience
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+My first experience as a participant in an international workshop after deciding to continue my delayed studies due to working in the IT field was a workshop on **data mining and bioinformatics** in 2017 with **Dr. Mario Guarracino** from the National Research Council of Italy.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+This workshop was the beginning of my contact with the world of biomedical research and bioinformatics. It was an inspiring event for me. I became eager to do exciting things like Dr. Guarracino. And here I am now, trying to explore the field of health biotechnology at the **Master’s Program of Biotechnology UGM**.
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+## A Decision for Biotechnology
 
-renders as
+It’s quite a long story why I decided to choose the field of biotechnology. Previously, I had studied plant taxonomy and even got LOA as a visiting scientist to learn about liverworts in Japan. However, I could not take the opportunity to go to Japan because I decided to accompany my pregnant wife (I’ll write about this in another blog post).
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+## Insights from the Workshop
 
-## Diagrams
+There are many exciting things and information that I got after attending this workshop:
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
+- Biological data are large, high dimensional, and freely available.
+- Many problems are still open and might provide a workbench for developing/applying computational methods.
 
 ## Did you find this page helpful? Consider sharing it 🙌
