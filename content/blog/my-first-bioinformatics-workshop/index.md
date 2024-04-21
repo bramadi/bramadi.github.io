@@ -3,7 +3,7 @@ title: ✅ My First Bioinformatics Workshop
 summary: My Journey into Biomedical Research and Bioinformatics
 date: 2020-10-16
 authors:
-  - bramadi
+  - admin
 tags:
   - Bioinformatics
   - Workshop
